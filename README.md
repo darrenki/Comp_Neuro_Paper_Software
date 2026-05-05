@@ -24,3 +24,5 @@ Visualizations from the paper can be done by:
 Tools-> Inspect/Label components by map
 Plot-> Component Activations (scroll)
 Plot-> Component Spectra and maps
+
+[![DOI](https://zenodo.org/badge/1229991794.svg)](https://doi.org/10.5281/zenodo.20041487)
